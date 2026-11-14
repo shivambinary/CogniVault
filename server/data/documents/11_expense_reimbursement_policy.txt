@@ -1,0 +1,25 @@
+INTELLICORP TECHNOLOGIES
+EXPENSE REIMBURSEMENT POLICY
+Document ID: FIN-EXP-011 | Version: 1.0 | Effective date: 01 January 2026
+Department: Finance
+
+1. Eligible expenses
+Reasonable business expenses incurred for approved company work may be reimbursed when they comply with this policy.
+
+2. Pre-approval
+Any single expense above INR 5,000 requires written manager approval before the purchase, except in a documented emergency.
+
+3. Submission
+Employees should submit claims through the expense portal within 30 calendar days of the transaction. Each claim must include an itemized receipt, business purpose, transaction date, and cost centre where applicable.
+
+4. Review
+The manager verifies business purpose and budget. Finance checks documentation and policy compliance before payment.
+
+5. Non-reimbursable items
+Personal purchases, traffic fines, unsupported claims, and expenses unrelated to approved business activities are not reimbursable.
+
+6. Payment timing
+Approved claims are normally processed in the next scheduled reimbursement cycle. Processing may take up to 15 business days after Finance approval.
+
+7. Questions
+Contact finance@intellicorp.example.

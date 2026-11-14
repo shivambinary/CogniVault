@@ -1,0 +1,22 @@
+INTELLICORP TECHNOLOGIES
+DATA PRIVACY AND INFORMATION HANDLING POLICY
+Document ID: IT-DAT-017 | Version: 1.0 | Effective date: 01 January 2026
+Department: Information Technology
+
+1. Data classification
+Company information should be handled according to its sensitivity: Public, Internal, Confidential, or Restricted. The data owner or manager should clarify classification when uncertain.
+
+2. Minimum necessary access
+Employees should access and share only the information needed for their work. Confidential and Restricted information must only be shared with authorized recipients.
+
+3. Approved storage
+Company work files must be stored in approved company-managed systems. Personal email accounts, personal cloud drives, and unapproved file-sharing services must not be used for company information.
+
+4. External tools and AI services
+Employees must not submit Confidential or Restricted company information to public AI tools or external services unless the service has been reviewed and explicitly approved by IT and Security.
+
+5. Retention and deletion
+Records must be retained and deleted according to the applicable retention schedule. Employees should not independently destroy records subject to a legal, audit, or investigation hold.
+
+6. Suspected exposure
+Report accidental disclosure, misdirected email, lost storage media, or suspected data exposure to security@intellicorp.example immediately.

@@ -1,0 +1,28 @@
+INTELLICORP TECHNOLOGIES
+FREQUENTLY ASKED QUESTIONS
+Document ID: GEN-FAQ-016 | Version: 1.0 | Effective date: 01 January 2026
+Department: General
+
+Q1. What are the standard working hours?
+The standard working hours are Monday to Friday, 9:00 AM to 6:00 PM, with a one-hour lunch break.
+
+Q2. How many annual leave days do full-time employees receive?
+Eligible full-time employees receive 24 days of annual paid leave per calendar year. Interns and contractors should check their own agreements and policies.
+
+Q3. How many days can eligible employees work from home?
+Eligible full-time employees may work from home up to three days per week with manager approval. Interns require explicit supervisor approval.
+
+Q4. Who should I contact about IT problems?
+Contact it-support@intellicorp.example. For suspected security incidents or phishing, contact security@intellicorp.example.
+
+Q5. What is the approval threshold for an individual expense?
+A single expense above INR 5,000 requires written manager approval before purchase, except in a documented emergency.
+
+Q6. When should I submit an expense claim?
+Submit expense claims within 30 calendar days of the transaction, with the required receipts and business purpose.
+
+Q7. How often are formal performance reviews held?
+Formal performance reviews are normally held twice a year, in June and December.
+
+Q8. How long is the standard internship?
+The standard internship lasts 8 to 12 weeks unless the internship letter states otherwise.

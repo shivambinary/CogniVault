@@ -1,0 +1,22 @@
+INTELLICORP TECHNOLOGIES
+LAPTOP AND DEVICE USAGE POLICY
+Document ID: IT-DEV-009 | Version: 1.0 | Effective date: 01 January 2026
+Department: Information Technology
+
+1. Company equipment
+Company-issued laptops and devices are provided primarily for business activities. Employees are responsible for reasonable care of assigned equipment.
+
+2. Physical security
+Devices should not be left unattended in public places. Employees should use a screen lock and keep devices physically secure while travelling.
+
+3. Updates and protection
+Employees must not disable endpoint protection or postpone critical security updates without IT approval.
+
+4. Personal use
+Limited personal use is permitted if it does not interfere with work, violate company policy, or create security or legal risks.
+
+5. Loss or damage
+Lost, stolen, or damaged equipment must be reported to IT as soon as possible.
+
+6. Return of equipment
+Employees must return company equipment when requested and as part of the exit process.

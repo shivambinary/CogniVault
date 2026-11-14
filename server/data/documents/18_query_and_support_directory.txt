@@ -1,0 +1,27 @@
+INTELLICORP TECHNOLOGIES
+SUPPORT AND CONTACT DIRECTORY
+Document ID: GEN-CON-018 | Version: 1.0 | Effective date: 01 January 2026
+Department: General
+
+Human Resources
+Email: hr@intellicorp.example
+Use for leave eligibility, attendance records, onboarding, benefits, and general employment policy questions.
+
+Benefits Team
+Email: benefits@intellicorp.example
+Use for health plan enrollment and learning-support questions.
+
+Information Technology Support
+Email: it-support@intellicorp.example
+Use for account access, device issues, approved software, and technical support.
+
+Information Security
+Email: security@intellicorp.example
+Use to report phishing, suspected account compromise, malware, lost devices, or possible data exposure.
+
+Finance
+Email: finance@intellicorp.example
+Use for expense reimbursement and business travel policy questions.
+
+General guidance
+Do not send passwords, authentication codes, or sensitive personal information by email. Use the approved internal support portal for sensitive requests.

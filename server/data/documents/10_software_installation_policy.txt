@@ -1,0 +1,22 @@
+INTELLICORP TECHNOLOGIES
+SOFTWARE INSTALLATION POLICY
+Document ID: IT-SW-010 | Version: 1.0 | Effective date: 01 January 2026
+Department: Information Technology
+
+1. Approved software
+Employees may install software from the company's approved software catalog.
+
+2. New software requests
+Requests for new tools must be submitted to IT with the business purpose, vendor name, requested permissions, and expected users. IT may consult Security or Legal before approval.
+
+3. Prohibited installation
+Employees must not install pirated software, cracked applications, unauthorized remote-access tools, or software from untrusted sources.
+
+4. Open-source software
+Use of open-source software for company work must follow the applicable license terms and internal approval process.
+
+5. Browser extensions
+Extensions that can read or modify company data require IT approval.
+
+6. Support
+Contact it-support@intellicorp.example for installation assistance.

@@ -1,0 +1,19 @@
+INTELLICORP TECHNOLOGIES
+NEW EMPLOYEE ONBOARDING GUIDE
+Document ID: HR-ONB-014 | Version: 1.0 | Effective date: 01 January 2026
+Department: Human Resources
+
+1. Before the first day
+HR sends the offer documents, joining instructions, and a list of information required to complete employment records.
+
+2. First day
+New employees meet HR, receive their access credentials and assigned equipment where applicable, and review the Employee Handbook and IT Security Policy.
+
+3. First week
+The manager explains role expectations, team processes, communication channels, and initial goals. New employees should complete mandatory security and conduct training.
+
+4. System access
+Access to internal systems is requested by the manager and provisioned by IT according to role requirements.
+
+5. Questions
+Contact hr@intellicorp.example for onboarding questions and it-support@intellicorp.example for account or device issues.
