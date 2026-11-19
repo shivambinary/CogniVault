@@ -55,14 +55,14 @@ pnpm-debug.log*
 # ==============================
 # CogniVault Generated Storage
 # ==============================
-server/storage/uploads/*
-server/storage/processed/*
-server/storage/vector_index/*
+# server/storage/uploads/*
+# server/storage/processed/*
+# server/storage/vector_index/*
 
-# Preserve directory structure
-!server/storage/uploads/.gitkeep
-!server/storage/processed/.gitkeep
-!server/storage/vector_index/.gitkeep
+# # Preserve directory structure
+# !server/storage/uploads/.gitkeep
+# !server/storage/processed/.gitkeep
+# !server/storage/vector_index/.gitkeep
 
 # ==============================
 # Database & Vector Indexes
