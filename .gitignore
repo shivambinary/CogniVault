@@ -55,6 +55,7 @@ pnpm-debug.log*
 # ==============================
 # CogniVault Generated Storage
 # ==============================
+server/storage/embeddings/*.npy
 # server/storage/uploads/*
 # server/storage/processed/*
 # server/storage/vector_index/*
