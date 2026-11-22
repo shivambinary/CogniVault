@@ -37,7 +37,7 @@ def main() -> None:
             f"({embeddings.shape[0]})."
         )
 
-    chunk_ids = [chunk["chunk_id"] for chunk in chunks]
+    chunk_ids = [chunk["id"] for chunk in chunks]
     if chunk_ids != embedding_metadata["chunk_ids"]:
         raise ValueError(
             "Chunk order does not match the embedding metadata. "

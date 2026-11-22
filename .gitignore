@@ -10,6 +10,7 @@
 # ==============================
 # Python
 # ==============================
+
 __pycache__/
 *.py[cod]
 *.pyo
@@ -23,6 +24,7 @@ htmlcov/
 # ==============================
 # Virtual Environments
 # ==============================
+
 .venv/
 venv/
 env/
@@ -30,6 +32,7 @@ env/
 # ==============================
 # Python Build Files
 # ==============================
+
 build/
 dist/
 *.egg-info/
@@ -37,6 +40,7 @@ dist/
 # ==============================
 # Node.js / React
 # ==============================
+
 node_modules/
 client/dist/
 client/build/
@@ -47,6 +51,7 @@ pnpm-debug.log*
 # ==============================
 # IDE & Editor
 # ==============================
+
 .vscode/*
 !.vscode/extensions.json
 .idea/
@@ -54,36 +59,24 @@ pnpm-debug.log*
 *.swo
 
 # ==============================
-# CogniVault Generated Storage
+# Database
 # ==============================
-# server/storage/embeddings/*.npy
-# server/storage/uploads/*
-# server/storage/processed/*
-# server/storage/vector_index/*
 
-# # Preserve directory structure
-# !server/storage/uploads/.gitkeep
-# !server/storage/processed/.gitkeep
-# !server/storage/vector_index/.gitkeep
-
-# ==============================
-# Database & Vector Indexes
-# ==============================
 *.db
 *.sqlite
 *.sqlite3
-*.faiss
-*.index
 
 # ==============================
 # Logs
 # ==============================
+
 *.log
 logs/
 
 # ==============================
 # Operating System
 # ==============================
+
 .DS_Store
 Thumbs.db
 desktop.ini

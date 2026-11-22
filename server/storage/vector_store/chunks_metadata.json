@@ -1,0 +1,159 @@
+{
+  "total_chunks": 30,
+  "embedding_dimension": 384,
+  "index_type": "IndexFlatIP",
+  "distance_metric": "inner_product",
+  "normalized_embeddings": true,
+  "chunks": [
+    {
+      "id": "01_employee_handbook_chunk_0000",
+      "source": "01_employee_handbook.txt",
+      "text": "INTELLICORP TECHNOLOGIES EMPLOYEE HANDBOOK Document ID: HR-GEN-001 | Version: 1.0 | Effective date: 01 January 2026 Department: Human Resources 1. Purpose This handbook introduces employees to the workplace practices and general expectations of IntelliCorp Technologies. It is a demonstration document created for the IntelliCorp RAG academic project. 2. Working hours The standard working schedule is Monday to Friday, 9:00 AM to 6:00 PM, with a one-hour lunch break. Some teams may follow approved schedules based on operational requirements. Employees should coordinate schedule changes with their manager. 3. Professional conduct Employees are expected to treat colleagues, customers, and partners respectfully; communicate honestly; protect company information; and follow applicable workplace policies. 4. Attendance Employees should record attendance using the approved attendance system. If an employee expects to be late or absent, they should inform their manager as early as possible and follow the leave or attendance process. 5. Questions and support Questions"
+    },
+    {
+      "id": "01_employee_handbook_chunk_0001",
+      "source": "01_employee_handbook.txt",
+      "text": "If an employee expects to be late or absent, they should inform their manager as early as possible and follow the leave or attendance process. 5. Questions and support Questions about employment policies should be directed to the Human Resources team at hr@intellicorp.example. IT issues should be directed to it-support@intellicorp.example. 6. Policy precedence This handbook is a general guide. Where a specific policy provides more detailed instructions, the specific policy should be consulted. If two documents appear inconsistent, employees should contact HR rather than assume which rule applies."
+    },
+    {
+      "id": "02_leave_policy_chunk_0000",
+      "source": "02_leave_policy.txt",
+      "text": "INTELLICORP TECHNOLOGIES LEAVE POLICY Document ID: HR-LEV-002 | Version: 1.0 | Effective date: 01 January 2026 Department: Human Resources 1. Annual leave entitlement Full-time employees receive 24 days of annual paid leave per calendar year. Leave entitlement for employees who join during the year is calculated proportionally according to their joining date and employment terms. 2. Applying for planned leave Employees should submit planned leave requests through the HR portal at least five working days before the first day of leave. The manager reviews requests based on team coverage and business needs. A request is not approved until the employee receives confirmation in the HR portal or from the manager. 3. Sick leave Employees who are unable to work because of illness should notify their manager as soon as reasonably possible and record the absence in the HR portal. HR may request supporting documentation where permitted by applicable rules and"
+    },
+    {
+      "id": "02_leave_policy_chunk_0001",
+      "source": "02_leave_policy.txt",
+      "text": "of illness should notify their manager as soon as reasonably possible and record the absence in the HR portal. HR may request supporting documentation where permitted by applicable rules and company procedures. 4. Emergency leave For an emergency, employees should notify their manager as soon as practical. The employee should complete the HR portal record when they are able to do so. 5. Carry-forward A maximum of five unused annual leave days may be carried into the next calendar year. Carried-forward days must be used by 31 March. Any exception requires written HR approval. 6. Interns and contractors Intern leave entitlements are defined in the Internship Policy or the relevant internship agreement. Contractors should refer to their contract. The 24-day annual entitlement in this policy applies to eligible full-time employees. 7. Contact For questions about leave balances or eligibility, contact hr@intellicorp.example."
+    },
+    {
+      "id": "03_work_from_home_policy_chunk_0000",
+      "source": "03_work_from_home_policy.txt",
+      "text": "INTELLICORP TECHNOLOGIES REMOTE WORK / WORK FROM HOME POLICY Document ID: HR-REM-003 | Version: 1.0 | Effective date: 01 January 2026 Department: Human Resources 1. Standard arrangement Eligible full-time employees may work from home for up to three days per week, subject to manager approval and team requirements. 2. Request and approval Employees should agree their remote-work days with their manager in advance. A calendar entry or written approval should record the agreed arrangement. Approval may be changed when business operations require in-person attendance. 3. Availability Employees working remotely must remain reachable during their agreed working hours, attend scheduled meetings, and keep their calendar up to date. 4. Equipment and connectivity Employees are responsible for maintaining a reliable internet connection and a work environment suitable for handling company information. Company-issued equipment must be used in accordance with the IT Security Policy. 5. Confidentiality Employees must prevent unauthorized people from viewing"
+    },
+    {
+      "id": "03_work_from_home_policy_chunk_0001",
+      "source": "03_work_from_home_policy.txt",
+      "text": "and a work environment suitable for handling company information. Company-issued equipment must be used in accordance with the IT Security Policy. 5. Confidentiality Employees must prevent unauthorized people from viewing company information. Sensitive work should not be discussed in public places where it may be overheard. 6. Interns Interns may work remotely only when their internship supervisor has explicitly approved the arrangement. The standard three-day allowance for eligible full-time employees does not automatically apply to interns. 7. Contact Questions should be directed to the employee's manager or HR."
+    },
+    {
+      "id": "04_attendance_and_working_hours_chunk_0000",
+      "source": "04_attendance_and_working_hours.txt",
+      "text": "INTELLICORP TECHNOLOGIES ATTENDANCE AND WORKING HOURS POLICY Document ID: HR-ATT-004 | Version: 1.0 | Effective date: 01 January 2026 Department: Human Resources 1. Standard hours The standard schedule is Monday to Friday, 9:00 AM to 6:00 PM, including a one-hour lunch break. 2. Recording attendance Employees must record their start time, end time, and approved absences in the designated attendance system. Employees should not record attendance on behalf of another person. 3. Late arrival Employees who expect to arrive late should inform their manager as soon as possible. Repeated lateness may be reviewed by the manager and HR. 4. Flexible schedules A flexible schedule may be approved by a manager when the role and team requirements allow it. Approval should be documented. 5. Corrections If an attendance entry is incorrect, the employee should submit a correction request through the attendance system within five working days. 6. Questions Contact HR for"
+    },
+    {
+      "id": "04_attendance_and_working_hours_chunk_0001",
+      "source": "04_attendance_and_working_hours.txt",
+      "text": "be documented. 5. Corrections If an attendance entry is incorrect, the employee should submit a correction request through the attendance system within five working days. 6. Questions Contact HR for attendance-record questions and the manager for team scheduling questions."
+    },
+    {
+      "id": "05_employee_benefits_chunk_0000",
+      "source": "05_employee_benefits.txt",
+      "text": "INTELLICORP TECHNOLOGIES EMPLOYEE BENEFITS OVERVIEW Document ID: HR-BEN-005 | Version: 1.0 | Effective date: 01 January 2026 Department: Human Resources 1. Eligibility Benefits depend on employment category, location, and the employee's signed offer or benefits confirmation. This overview is a summary and does not replace individual benefit documents. 2. Health coverage Eligible full-time employees may enroll in the company health-insurance plan during onboarding or an announced enrollment window. Coverage details, exclusions, dependants, and claim procedures are described in the insurer's plan documents. 3. Learning support Employees may request reimbursement for approved job-related courses or certifications. Prior manager approval and proof of payment are required. The annual learning-support limit is INR 15,000 per eligible employee. 4. Wellness The company periodically shares information about wellness sessions and employee-assistance resources through the HR portal. 5. Questions Contact benefits@intellicorp.example for eligibility and enrollment questions."
+    },
+    {
+      "id": "06_performance_review_policy_chunk_0000",
+      "source": "06_performance_review_policy.txt",
+      "text": "INTELLICORP TECHNOLOGIES PERFORMANCE REVIEW POLICY Document ID: HR-PER-006 | Version: 1.0 | Effective date: 01 January 2026 Department: Human Resources 1. Review cycle Formal performance reviews are conducted twice each year, normally in June and December. 2. Review inputs Reviews may consider agreed goals, quality of work, collaboration, role-related skills, reliability, and progress against development objectives. Employees should have an opportunity to provide a self-assessment. 3. Feedback meeting Managers should discuss strengths, development areas, and goals with each employee. Feedback should be specific, respectful, and supported by examples. 4. Development plans Where useful, the manager and employee may agree on a development plan with measurable objectives and review dates. 5. Compensation A performance review does not automatically guarantee a salary increase, promotion, or bonus. Such decisions follow separate company processes and approvals. 6. Questions Contact HR for questions about the review process."
+    },
+    {
+      "id": "07_it_security_policy_chunk_0000",
+      "source": "07_it_security_policy.txt",
+      "text": "INTELLICORP TECHNOLOGIES IT SECURITY POLICY Document ID: IT-SEC-007 | Version: 1.0 | Effective date: 01 January 2026 Department: Information Technology 1. Account security Employees must use individual accounts and must not share passwords. Multi-factor authentication must be enabled wherever the company provides it. 2. Passwords Passwords must be unique and sufficiently strong. Employees must change a password promptly if they suspect it has been exposed. IT may require password changes after a security incident or system change. 3. Devices Company devices must use approved security updates and endpoint protection. Devices should be locked when unattended. Lost or stolen devices must be reported to IT immediately. 4. Data handling Company confidential information must be stored only in approved company systems. Employees must not upload confidential files to personal cloud storage or unapproved AI services. 5. Phishing Employees should not open suspicious attachments or enter credentials after following an unexpected link. Suspected"
+    },
+    {
+      "id": "07_it_security_policy_chunk_0001",
+      "source": "07_it_security_policy.txt",
+      "text": "must not upload confidential files to personal cloud storage or unapproved AI services. 5. Phishing Employees should not open suspicious attachments or enter credentials after following an unexpected link. Suspected phishing messages should be reported to security@intellicorp.example. 6. Incident reporting Report suspected account compromise, malware, data loss, or unauthorized access to security@intellicorp.example immediately. 7. Software Only approved software may be installed on company devices. Requests for additional software should be submitted to IT."
+    },
+    {
+      "id": "08_password_and_access_policy_chunk_0000",
+      "source": "08_password_and_access_policy.txt",
+      "text": "INTELLICORP TECHNOLOGIES PASSWORD AND ACCESS MANAGEMENT POLICY Document ID: IT-ACC-008 | Version: 1.0 | Effective date: 01 January 2026 Department: Information Technology 1. Individual access Every user must use their own account. Shared user accounts are prohibited unless IT has documented an approved technical exception. 2. Password requirements Passwords must be at least 12 characters long and should use a passphrase or a combination of character types. Passwords must not be reused across company and personal services. 3. Multi-factor authentication Multi-factor authentication is required for email, remote access, and systems that support it. 4. Access requests Managers must approve access requests for their team members. IT grants access according to job responsibilities and the principle of least privilege. 5. Access removal Managers must notify IT when an employee changes roles or leaves the organization so that access can be reviewed or disabled. 6. Suspected compromise Users must report suspected credential"
+    },
+    {
+      "id": "08_password_and_access_policy_chunk_0001",
+      "source": "08_password_and_access_policy.txt",
+      "text": "removal Managers must notify IT when an employee changes roles or leaves the organization so that access can be reviewed or disabled. 6. Suspected compromise Users must report suspected credential exposure to IT immediately and follow the account recovery instructions."
+    },
+    {
+      "id": "09_laptop_and_device_usage_chunk_0000",
+      "source": "09_laptop_and_device_usage.txt",
+      "text": "INTELLICORP TECHNOLOGIES LAPTOP AND DEVICE USAGE POLICY Document ID: IT-DEV-009 | Version: 1.0 | Effective date: 01 January 2026 Department: Information Technology 1. Company equipment Company-issued laptops and devices are provided primarily for business activities. Employees are responsible for reasonable care of assigned equipment. 2. Physical security Devices should not be left unattended in public places. Employees should use a screen lock and keep devices physically secure while travelling. 3. Updates and protection Employees must not disable endpoint protection or postpone critical security updates without IT approval. 4. Personal use Limited personal use is permitted if it does not interfere with work, violate company policy, or create security or legal risks. 5. Loss or damage Lost, stolen, or damaged equipment must be reported to IT as soon as possible. 6. Return of equipment Employees must return company equipment when requested and as part of the exit process."
+    },
+    {
+      "id": "10_software_installation_policy_chunk_0000",
+      "source": "10_software_installation_policy.txt",
+      "text": "INTELLICORP TECHNOLOGIES SOFTWARE INSTALLATION POLICY Document ID: IT-SW-010 | Version: 1.0 | Effective date: 01 January 2026 Department: Information Technology 1. Approved software Employees may install software from the company's approved software catalog. 2. New software requests Requests for new tools must be submitted to IT with the business purpose, vendor name, requested permissions, and expected users. IT may consult Security or Legal before approval. 3. Prohibited installation Employees must not install pirated software, cracked applications, unauthorized remote-access tools, or software from untrusted sources. 4. Open-source software Use of open-source software for company work must follow the applicable license terms and internal approval process. 5. Browser extensions Extensions that can read or modify company data require IT approval. 6. Support Contact it-support@intellicorp.example for installation assistance."
+    },
+    {
+      "id": "11_expense_reimbursement_policy_chunk_0000",
+      "source": "11_expense_reimbursement_policy.txt",
+      "text": "INTELLICORP TECHNOLOGIES EXPENSE REIMBURSEMENT POLICY Document ID: FIN-EXP-011 | Version: 1.0 | Effective date: 01 January 2026 Department: Finance 1. Eligible expenses Reasonable business expenses incurred for approved company work may be reimbursed when they comply with this policy. 2. Pre-approval Any single expense above INR 5,000 requires written manager approval before the purchase, except in a documented emergency. 3. Submission Employees should submit claims through the expense portal within 30 calendar days of the transaction. Each claim must include an itemized receipt, business purpose, transaction date, and cost centre where applicable. 4. Review The manager verifies business purpose and budget. Finance checks documentation and policy compliance before payment. 5. Non-reimbursable items Personal purchases, traffic fines, unsupported claims, and expenses unrelated to approved business activities are not reimbursable. 6. Payment timing Approved claims are normally processed in the next scheduled reimbursement cycle. Processing may take up to 15 business days"
+    },
+    {
+      "id": "11_expense_reimbursement_policy_chunk_0001",
+      "source": "11_expense_reimbursement_policy.txt",
+      "text": "unrelated to approved business activities are not reimbursable. 6. Payment timing Approved claims are normally processed in the next scheduled reimbursement cycle. Processing may take up to 15 business days after Finance approval. 7. Questions Contact finance@intellicorp.example."
+    },
+    {
+      "id": "12_travel_policy_chunk_0000",
+      "source": "12_travel_policy.txt",
+      "text": "INTELLICORP TECHNOLOGIES BUSINESS TRAVEL POLICY Document ID: FIN-TRV-012 | Version: 1.0 | Effective date: 01 January 2026 Department: Finance and Administration 1. Approval Domestic business travel must receive manager approval before bookings are made. International travel requires approval from the department head and Finance. 2. Booking Employees should use the company's designated travel process and select reasonably priced options that meet business needs. 3. Accommodation Accommodation should be safe, practical, and within the budget communicated for the trip. Exceptions require written approval. 4. Claims Employees must submit travel expense claims within 30 calendar days after completing the trip, with receipts and the business purpose. 5. Changes and cancellations Employees should inform their manager and the travel coordinator promptly when plans change. Cancellation costs may be reviewed if the change was avoidable. 6. Personal extensions Personal travel added to a business trip must be approved in advance. The company does not"
+    },
+    {
+      "id": "12_travel_policy_chunk_0001",
+      "source": "12_travel_policy.txt",
+      "text": "change. Cancellation costs may be reviewed if the change was avoidable. 6. Personal extensions Personal travel added to a business trip must be approved in advance. The company does not pay additional costs caused by the personal extension."
+    },
+    {
+      "id": "13_code_of_conduct_chunk_0000",
+      "source": "13_code_of_conduct.txt",
+      "text": "INTELLICORP TECHNOLOGIES CODE OF CONDUCT Document ID: GOV-CON-013 | Version: 1.0 | Effective date: 01 January 2026 Department: Human Resources 1. Respectful workplace Employees must treat others fairly and respectfully. Harassment, discrimination, bullying, threats, and retaliation are not acceptable. 2. Conflicts of interest Employees should disclose actual or potential conflicts of interest to their manager or HR. Employees must not use their position for improper personal benefit. 3. Confidentiality Employees must protect non-public company, customer, employee, and partner information. Confidential information should only be shared with authorized people for legitimate business purposes. 4. Gifts and hospitality Employees must not accept or offer gifts that could improperly influence a business decision. Uncertain cases should be disclosed to the manager or Compliance. 5. Reporting concerns Concerns may be raised with HR or the designated compliance contact. Reports will be handled as discreetly as practicable, consistent with a fair review. 6. Non-retaliation Retaliation"
+    },
+    {
+      "id": "13_code_of_conduct_chunk_0001",
+      "source": "13_code_of_conduct.txt",
+      "text": "5. Reporting concerns Concerns may be raised with HR or the designated compliance contact. Reports will be handled as discreetly as practicable, consistent with a fair review. 6. Non-retaliation Retaliation against a person who raises a concern in good faith is prohibited."
+    },
+    {
+      "id": "14_employee_onboarding_guide_chunk_0000",
+      "source": "14_employee_onboarding_guide.txt",
+      "text": "INTELLICORP TECHNOLOGIES NEW EMPLOYEE ONBOARDING GUIDE Document ID: HR-ONB-014 | Version: 1.0 | Effective date: 01 January 2026 Department: Human Resources 1. Before the first day HR sends the offer documents, joining instructions, and a list of information required to complete employment records. 2. First day New employees meet HR, receive their access credentials and assigned equipment where applicable, and review the Employee Handbook and IT Security Policy. 3. First week The manager explains role expectations, team processes, communication channels, and initial goals. New employees should complete mandatory security and conduct training. 4. System access Access to internal systems is requested by the manager and provisioned by IT according to role requirements. 5. Questions Contact hr@intellicorp.example for onboarding questions and it-support@intellicorp.example for account or device issues."
+    },
+    {
+      "id": "15_internship_policy_chunk_0000",
+      "source": "15_internship_policy.txt",
+      "text": "INTELLICORP TECHNOLOGIES INTERNSHIP POLICY Document ID: HR-INT-015 | Version: 1.0 | Effective date: 01 January 2026 Department: Human Resources 1. Internship duration The standard internship lasts 8 to 12 weeks, unless the internship letter specifies a different period. 2. Supervision Each intern is assigned a supervisor who provides tasks, feedback, and guidance. Interns should discuss priorities and blockers with their supervisor. 3. Working hours Interns normally follow the team's working schedule, generally 9:00 AM to 6:00 PM, Monday to Friday. Any adjustment must be approved by the supervisor. 4. Remote work Interns may work from home only when their internship supervisor explicitly approves it. The employee allowance of up to three remote days per week does not automatically apply to interns. 5. Leave and absence Interns should notify their supervisor of planned or unexpected absence. Any leave entitlement is governed by the internship agreement and applicable HR instructions; the 24-day"
+    },
+    {
+      "id": "15_internship_policy_chunk_0001",
+      "source": "15_internship_policy.txt",
+      "text": "interns. 5. Leave and absence Interns should notify their supervisor of planned or unexpected absence. Any leave entitlement is governed by the internship agreement and applicable HR instructions; the 24-day annual leave entitlement for full-time employees does not automatically apply. 6. Confidentiality and equipment Interns must follow the Code of Conduct and IT Security Policy and must return company equipment at the end of the internship. 7. Completion The supervisor may provide a completion review or certificate according to the internship agreement and program requirements."
+    },
+    {
+      "id": "16_faq_chunk_0000",
+      "source": "16_faq.txt",
+      "text": "INTELLICORP TECHNOLOGIES FREQUENTLY ASKED QUESTIONS Document ID: GEN-FAQ-016 | Version: 1.0 | Effective date: 01 January 2026 Department: General Q1. What are the standard working hours? The standard working hours are Monday to Friday, 9:00 AM to 6:00 PM, with a one-hour lunch break. Q2. How many annual leave days do full-time employees receive? Eligible full-time employees receive 24 days of annual paid leave per calendar year. Interns and contractors should check their own agreements and policies. Q3. How many days can eligible employees work from home? Eligible full-time employees may work from home up to three days per week with manager approval. Interns require explicit supervisor approval. Q4. Who should I contact about IT problems? Contact it-support@intellicorp.example. For suspected security incidents or phishing, contact security@intellicorp.example. Q5. What is the approval threshold for an individual expense? A single expense above INR 5,000 requires written manager approval before purchase, except in"
+    },
+    {
+      "id": "16_faq_chunk_0001",
+      "source": "16_faq.txt",
+      "text": "security incidents or phishing, contact security@intellicorp.example. Q5. What is the approval threshold for an individual expense? A single expense above INR 5,000 requires written manager approval before purchase, except in a documented emergency. Q6. When should I submit an expense claim? Submit expense claims within 30 calendar days of the transaction, with the required receipts and business purpose. Q7. How often are formal performance reviews held? Formal performance reviews are normally held twice a year, in June and December. Q8. How long is the standard internship? The standard internship lasts 8 to 12 weeks unless the internship letter states otherwise."
+    },
+    {
+      "id": "17_data_privacy_and_handling_chunk_0000",
+      "source": "17_data_privacy_and_handling.txt",
+      "text": "INTELLICORP TECHNOLOGIES DATA PRIVACY AND INFORMATION HANDLING POLICY Document ID: IT-DAT-017 | Version: 1.0 | Effective date: 01 January 2026 Department: Information Technology 1. Data classification Company information should be handled according to its sensitivity: Public, Internal, Confidential, or Restricted. The data owner or manager should clarify classification when uncertain. 2. Minimum necessary access Employees should access and share only the information needed for their work. Confidential and Restricted information must only be shared with authorized recipients. 3. Approved storage Company work files must be stored in approved company-managed systems. Personal email accounts, personal cloud drives, and unapproved file-sharing services must not be used for company information. 4. External tools and AI services Employees must not submit Confidential or Restricted company information to public AI tools or external services unless the service has been reviewed and explicitly approved by IT and Security. 5. Retention and deletion Records must be retained"
+    },
+    {
+      "id": "17_data_privacy_and_handling_chunk_0001",
+      "source": "17_data_privacy_and_handling.txt",
+      "text": "company information to public AI tools or external services unless the service has been reviewed and explicitly approved by IT and Security. 5. Retention and deletion Records must be retained and deleted according to the applicable retention schedule. Employees should not independently destroy records subject to a legal, audit, or investigation hold. 6. Suspected exposure Report accidental disclosure, misdirected email, lost storage media, or suspected data exposure to security@intellicorp.example immediately."
+    },
+    {
+      "id": "18_query_and_support_directory_chunk_0000",
+      "source": "18_query_and_support_directory.txt",
+      "text": "INTELLICORP TECHNOLOGIES SUPPORT AND CONTACT DIRECTORY Document ID: GEN-CON-018 | Version: 1.0 | Effective date: 01 January 2026 Department: General Human Resources Email: hr@intellicorp.example Use for leave eligibility, attendance records, onboarding, benefits, and general employment policy questions. Benefits Team Email: benefits@intellicorp.example Use for health plan enrollment and learning-support questions. Information Technology Support Email: it-support@intellicorp.example Use for account access, device issues, approved software, and technical support. Information Security Email: security@intellicorp.example Use to report phishing, suspected account compromise, malware, lost devices, or possible data exposure. Finance Email: finance@intellicorp.example Use for expense reimbursement and business travel policy questions. General guidance Do not send passwords, authentication codes, or sensitive personal information by email. Use the approved internal support portal for sensitive requests."
+    }
+  ]
+}
