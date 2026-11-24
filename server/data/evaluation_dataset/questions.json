@@ -1,0 +1,27 @@
+
+[
+    {
+        "question": "How many annual leave days does an employee receive?",
+        "expected_sources": [
+            "02_leave_policy.txt"
+        ]
+    },
+    {
+        "question": "Can employees work remotely from home?",
+        "expected_sources": [
+            "03_work_from_home_policy.txt"
+        ]
+    },
+    {
+        "question": "Where can employees find information about company rules?",
+        "expected_sources": [
+            "01_employee_handbook.txt"
+        ]
+    },
+    {
+        "question": "Who should employees contact when they need support?",
+        "expected_sources": [
+            "18_query_and_support_directory.txt"
+        ]
+    }
+]

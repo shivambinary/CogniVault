@@ -1,7 +1,7 @@
 import json
 from pathlib import Path
 
-from ai.ingestion.parser import parse_document
+from cognivault.ai.ingestion.parser import parse_document
 
 
 BASE_DIR = Path(__file__).resolve().parents[1]

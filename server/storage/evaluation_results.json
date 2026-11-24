@@ -1,0 +1,72 @@
+{
+    "total_questions": 4,
+    "top_k": 3,
+    "average_precision_at_k": 0.25,
+    "average_recall_at_k": 0.75,
+    "average_hit_rate_at_k": 0.75,
+    "question_results": [
+        {
+            "question": "How many annual leave days does an employee receive?",
+            "expected_sources": [
+                "02_leave_policy.txt"
+            ],
+            "retrieved_sources": [
+                "02_leave_policy.txt",
+                "15_internship_policy.txt"
+            ],
+            "relevant_found": [
+                "02_leave_policy.txt"
+            ],
+            "precision_at_k": 0.3333333333333333,
+            "recall_at_k": 1.0,
+            "hit_rate_at_k": 1.0
+        },
+        {
+            "question": "Can employees work remotely from home?",
+            "expected_sources": [
+                "03_work_from_home_policy.txt"
+            ],
+            "retrieved_sources": [
+                "03_work_from_home_policy.txt",
+                "15_internship_policy.txt"
+            ],
+            "relevant_found": [
+                "03_work_from_home_policy.txt"
+            ],
+            "precision_at_k": 0.3333333333333333,
+            "recall_at_k": 1.0,
+            "hit_rate_at_k": 1.0
+        },
+        {
+            "question": "Where can employees find information about company rules?",
+            "expected_sources": [
+                "01_employee_handbook.txt"
+            ],
+            "retrieved_sources": [
+                "01_employee_handbook.txt",
+                "17_data_privacy_and_handling.txt",
+                "13_code_of_conduct.txt"
+            ],
+            "relevant_found": [
+                "01_employee_handbook.txt"
+            ],
+            "precision_at_k": 0.3333333333333333,
+            "recall_at_k": 1.0,
+            "hit_rate_at_k": 1.0
+        },
+        {
+            "question": "Who should employees contact when they need support?",
+            "expected_sources": [
+                "18_query_and_support_directory.txt"
+            ],
+            "retrieved_sources": [
+                "01_employee_handbook.txt",
+                "13_code_of_conduct.txt"
+            ],
+            "relevant_found": [],
+            "precision_at_k": 0.0,
+            "recall_at_k": 0.0,
+            "hit_rate_at_k": 0.0
+        }
+    ]
+}
